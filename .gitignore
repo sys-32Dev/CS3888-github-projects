@@ -1,7 +1,3 @@
-*.log
-docs/User_Manual/
-*-*.txt
-src/styles.css
-docs/Software_Requirement_Specification/SRS_v*.docx
-docs/Software_Design_Document/SDD_v*.docx
-docs/**/README.md
+Assignment4.zip
+final-project.txt
+.DS_Store
