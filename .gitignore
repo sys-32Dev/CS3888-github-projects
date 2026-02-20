@@ -1,6 +1,6 @@
 *.log
 docs/User_Manual/
-*-*.txt
+docs/**/*-*.txt
 src/styles.css
 docs/Software_Requirement_Specification/SRS_v*.docx
 docs/Software_Design_Document/SDD_v*.docx
